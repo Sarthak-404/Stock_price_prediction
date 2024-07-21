@@ -2,3 +2,4 @@ streamlit
 prophet 
 yfinance 
 plotly
+numpy = 1.26
